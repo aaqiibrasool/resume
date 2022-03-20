@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+body{
+  font-size: 20px;
+  
+}
+
+h1{
+font-family: 'merriweather',sans-serif;
+}
+
+h2{
+font-family: Arial, Helvetica, sans-serif;
+}
+
+h3{
+
+}
+
+p{
+  font-weight: 2;
+ font-size: 1.20rem;
+}
+.top-container{
+  background-color:rgba(0, 255, 255, 0.459);
+
+}
+.skill-img {
+  width: 10%;
+}
+.sill-row {
+  width: 10%;
+}
+.profile-pic {
+  width: 10%;
+}
